@@ -11,9 +11,9 @@ const Navbar = () => {
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <a href="#" className="flex items-center gap-2">
           <div className="h-8 w-8 rounded-full bg-perfume-gradient flex items-center justify-center">
-            <span className="text-white font-bold text-lg">P</span>
+            <span className="text-white font-bold text-lg">A</span>
           </div>
-          <h1 className="text-xl font-display font-bold text-perfume-darkPurple">Perfume Puff</h1>
+          <h1 className="text-xl font-display font-bold text-perfume-darkPurple">Aromix</h1>
         </a>
         
         <nav className="hidden md:flex items-center gap-8">
