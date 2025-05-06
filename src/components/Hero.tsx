@@ -24,7 +24,7 @@ const Hero = () => {
           </div>
         </div>
         <div className="relative">
-          <div className="relative h-[400px] md:h-[500px] w-full bg-[url('/lovable-uploads/cac735c1-7f1d-4017-a059-5daa0846c743.png')] bg-cover bg-center rounded-xl shadow-2xl animate-float">
+          <div className="relative h-[400px] md:h-[500px] w-full bg-[url('/lovable-uploads/10165e82-c616-4490-bf3e-72b3af32558a.png')] bg-cover bg-center rounded-xl shadow-2xl animate-float">
             <div className="absolute inset-0 bg-gradient-to-r from-perfume-purple/30 to-transparent rounded-xl"></div>
             <div className="absolute bottom-0 left-0 right-0 bg-white/90 backdrop-blur-sm p-4 rounded-b-xl">
               <p className="text-center text-perfume-darkPurple font-medium">Next-gen perfume dispensing technology</p>
